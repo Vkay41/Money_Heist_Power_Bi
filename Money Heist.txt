@@ -1,0 +1,5 @@
+Objective:
+Analyze the 'Money Heist' TV series across all seasons using a Power BI dashboard to provide insights into characters, story arcs, and key events. This visualization will help fans and analysts explore the series' data in a structured and interactive way.
+
+Description:
+The "Money Heist" dashboard, curated by Professor Vikas Ranjan, offers a deep dive into the gripping world of the TV series. Featuring sections such as "All Seasons View" and "Money Heist Gang," this Power BI dashboard meticulously visualizes and dissects the intricate storyline, character arcs, and pivotal moments that define the series. The dashboard not only provides a comprehensive analytical resource for enthusiasts and analysts but also enhances the viewer's experience by transforming complex narratives into interactive, visually engaging insights. By leveraging Power BI's powerful data visualization tools, it enables users to explore and understand the show's dynamics, offering a unique blend of entertainment and data analysis that transforms how we interact with and interpret 'Money Heist.'
